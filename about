@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About - Debunking the Gum Myth Blog</title>
+    <style>
+        /* CSS styles remain the same as in index.html */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 20px;
+        }
+        main {
+            padding: 20px;
+        }
+        .article {
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .article h2 {
+            color: #333;
+            margin-top: 0;
+        }
+        .article p {
+            color: #666;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>About - Debunking the Gum Myth Blog</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <main>
+        <div class="article">
+            <h2>About Us</h2>
+            <p>Welcome to Debunking the Gum Myth Blog! We are dedicated to providing accurate information and debunking common myths surrounding chewing gum. Our mission is to educate the public and dispel misconceptions about the impact of chewing gum on health. Stay tuned for more informative articles!</p>
+        </div>
+    </main>
+    <footer>
+        &copy; 2024 Debunking the Gum Myth Blog
+    </footer>
+</body>
+</html>
