@@ -62,9 +62,9 @@
         <h1>Debunking the Gum Myth Blog</h1>
     </header>
     <nav>
-        <a href="index.html">Home</a>
-        <a href="about.html">About</a>
-        <a href="about.html">Contact</a>
+        <a href="./index.html">Home</a>
+        <a href="./about.html">About</a>
+        <a href="./about.html">Contact</a>
     </nav>
     <main>
         <div class="article">
