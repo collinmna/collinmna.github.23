@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debunking the Gum Myth Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 20px;
+        }
+        main {
+            padding: 20px;
+        }
+        .article {
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        .article h2 {
+            color: #333;
+            margin-top: 0;
+        }
+        .article p {
+            color: #666;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Debunking the Gum Myth Blog</h1>
+    </header>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="about.html">Contact</a>
+    </nav>
+    <main>
+        <div class="article">
+            <h2>Does Gum Really Stay in Your Stomach for Years?</h2>
+            <p>No, the myth that gum stays in your stomach for years if swallowed is not true. While it is true that gum is not digestible like other foods, it does not linger in your stomach for an extended period. In reality, your body treats swallowed gum similar to other indigestible substances, passing it through the digestive system and eventually excreting it in your stool. So, don't worry if you accidentally swallow your gum—it will pass through your system harmlessly.</p>
+        </div>
+        <div class="article">
+            <h2>Why Was the Gum Myth Created?</h2>
+            <p>The myth about gum staying in your stomach for years likely originated as a way to discourage children from swallowing their gum. Parents and teachers may have used the myth as a cautionary tale to prevent children from engaging in this behavior. However, it's important to understand that while swallowing gum is not ideal, it is generally harmless and does not pose any serious health risks.</p>
+        </div>
+    </main>
+    <footer>
+        &copy; 2024 Debunking the Gum Myth Blog
+    </footer>
+</body>
+</html>
